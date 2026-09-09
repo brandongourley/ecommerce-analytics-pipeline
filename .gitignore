@@ -1,0 +1,12 @@
+# dbt build output & logs
+logs/
+capstone_dbt/target/
+capstone_dbt/dbt_packages/
+capstone_dbt/logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env

@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: capstone_raw
+    schema: capstone_raw
+    tables:
+      - name: customers
+      - name: orders
